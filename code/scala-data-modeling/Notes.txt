@@ -1,0 +1,59 @@
+
+
+e.g website
+
+   data ==> Model
+   
+   Visitor
+	   anonymous
+	   user
+--------------------------
+
+
+Algebraic data-type
+
+
+	 
+	
+	        
+	           AND          OR
+	  ------------------------------   
+	   IS-A                 Sum-Type
+	   -------------------------------
+	   HAS-A   Product-Type         
+	   -------------------------------
+	   
+	   
+	   ->Product Type  ( HAS-A + AND )
+	 	
+	 	    case class A(b:B,c:C)
+	 
+	  ->Sum Type  ( IS-A + OR )
+	 
+		     trait A
+		     case class B() extends A
+		     case class C() extends A
+	   
+	  -> IS-A + AND
+	   
+		   trait B
+		   trait C
+		   trait A extends B with C
+		   
+	   -> HAS-A + OR
+	   
+	    
+		    trait A
+		    case class D(b:B) extends A
+		    case class E(b:C) extends A 
+	    
+  
+  
+  
+      
+  
+  
+  	   
+	   
+	   
+	   

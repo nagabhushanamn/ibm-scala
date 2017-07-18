@@ -1,0 +1,32 @@
+
+
+//1. How to loop over a collection with 'for' & 'foreach'
+
+//2. How to use for-loop  with multiple counters
+
+// 3, 'for' loop with embedded 'if' statements
+
+// 4, 'for comprehensions" ( for / yield ) ==> monads
+
+// 5. if/then statement in scala
+
+// 6. match expressions like switch-case statement
+
+// 7. match multiple conditions one case statement
+
+// 8. how to access the value of default case
+
+// 9. pattern matching in scala match/case expressions
+
+10. how to use case-classes in scala match expressions
+
+11. match/case with guards
+
+12. one or more exceptions with try/catch in scala
+
+13. try,catch,finally
+
+14. how to create our own controls in scala  ( how lang scaling on our needs )
+
+ 
+

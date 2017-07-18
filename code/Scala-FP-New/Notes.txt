@@ -1,0 +1,10 @@
+
+FP principles
+
+-> can use function as values
+-> can use as params
+-> can return values
+-> all params by default immutable
+-> shud support closure
+-> shud partial functions
+

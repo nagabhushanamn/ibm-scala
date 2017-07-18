@@ -1,0 +1,95 @@
+
+
+data-structures & algorithms
+
+ -> organize-memory  & to do CRUDSS operations ( Algorithms  )
+ 
+ 
+ analysys
+ 
+  -> space complexity
+  -> time complexity
+  
+  -----------------------------------------------------------
+  
+  
+  types of DS
+  
+   -> primitives
+   -> secondary
+   
+     a. linear
+     b. non-linear 
+     
+  -----------------------------------------------------------
+  
+  
+   java-lang
+   
+      collection F.W
+      
+      	=> defined data-structures with algorithms
+      	
+      	
+  -----------------------------------------------------------
+  
+  scala-lang
+  
+  
+  	 
+  	 types
+  	 
+  	 -> Seq
+  	 
+  	     a. indexed
+  	     b. linear
+  	     
+  	     when to use ?
+  	     
+  	     -> ordered 
+  	     -> with duplicates
+  	     
+  	  -> Set    
+  	  
+  	  	 -> unique data-elements
+  	  	 
+  	  -> Map
+  	  
+  	      -> user-identity ( key ) + data 	 
+  	  
+  	 ------------------------------------------------------- 	
+  	 
+  	 
+  	 top-level : traits ( abstract )
+  	 
+  	 bottom-level : class ( implementations )
+  	 
+  	 --------------------------------------------------------
+  	 
+  	 How to choose scala-collections ?
+  	 
+  	 
+  	 -> Mutable    | Immutable
+  	 -> Sequential | Parallel
+  	 -> Eager      | Lazy
+  	 
+  	 --------------------------------------------------------- 
+  	 
+  	 
+  	 
+  	
+  	 
+  	  -> TreeMap   -> sorted   ( tree )
+  	  -> HashMap   -> un-ordred
+  	  -> LinkedHashMap -> ordered
+  	  -> WeakHashMap
+  	  
+  	  
+  	      
+  	 
+     
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,76 @@
+
+
+
+ scala - data-types
+ -------------------
+ 
+    - static typed lang with type inference          
+    
+    
+    syntax
+    
+    
+    var name=object;
+    // or
+    var name:Type=object
+    
+    
+    ------------------------------------------------
+    
+    
+    Naming conventions
+    
+   
+    keywords ==> lower-case
+    types ( class , trait , enum ) ==> pascal-case  ( A____B____)
+    var/method ==> camel-case   ( ____A___B_____)
+    constants  ==> upper-case
+    
+    ------------------------------------------------
+    
+    
+    
+    Expressions , Types , Values
+    
+    
+    
+    
+    how to create objects in .scala lang ?
+    
+    
+    syntax
+  
+  	way-1 : without 'new' keyword ( literal-style objects )
+  	 
+    		used for 
+     --> primitives(numbers) & strings, Unit , Null ,......
+     
+     
+     way-2 : using 'object' keyword 
+    
+    
+    
+    //-----------------------------------------------
+    
+    
+    
+    object creation is 2 step process
+    
+    step-1 : memory allocation  : 'new'
+    step-2 : initialize memory with object data : 'constructor'
+    
+    
+    //-----------------------------------------------
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
