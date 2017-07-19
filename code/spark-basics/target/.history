@@ -1,0 +1,20 @@
+compile
+package
+run
+run-main Hello
+run-main Test
+sbt
+compile
+pacjafe
+package
+run
+build
+update
+compile
+eclipse
+update
+eclipse
+update
+eclipse
+sbt package
+package

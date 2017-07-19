@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/scala-learn_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	main/WordCounter$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/main/WordCounter$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	main/WordCounter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/main/WordCounter.class[0m
+[0m[[0mdebug[0m] [0m	Ex2$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/Ex2$.class[0m
+[0m[[0mdebug[0m] [0m	ReduceEx$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/ReduceEx$.class[0m
+[0m[[0mdebug[0m] [0m	main[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/main[0m
+[0m[[0mdebug[0m] [0m	main/WordCounter$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/main/WordCounter$.class[0m
+[0m[[0mdebug[0m] [0m	ReduceEx$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/ReduceEx$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	main/WordCounter$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/main/WordCounter$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	main/WordCounter$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/main/WordCounter$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	main/WordCounter$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/main/WordCounter$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	ReduceEx.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/ReduceEx.class[0m
+[0m[[0mdebug[0m] [0m	Ex2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Training/eclipse-workspace/scala-learn/spark-basics/target/scala-2.10/classes/Ex2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
